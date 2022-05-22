@@ -9,7 +9,7 @@
 These are the files for a twitch chat bot moderator.
 The following link will further explain the functionality of the bot:
 
-
+https://youtu.be/zUcol816hpc
 
 
 NOTE: I have redacted my Twitch OAuth token for security reasons.
