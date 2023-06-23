@@ -1,10 +1,5 @@
-# PDP-Professional-Skills
-
-
+# Twitch.tv bot
 | Birouk Walid | ACS Student at thomas more hogeschool (belgium)|
 
 
-
-These are the files for a twitch chat bot moderator.
-
-
+Twitch bot "Secret_Agent" as a chat moderator in python for my Twitch.tv channel.
